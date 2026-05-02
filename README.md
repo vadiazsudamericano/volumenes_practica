@@ -32,7 +32,6 @@ Docker versión 20.10.x o superior instalado.
 ## 7. Material de apoyo
 Documentación oficial de Docker sobre Storage and Volumes.
 
-Guía de la asignatura: Tendencias en Sistemas de Información.
 
 ## 8. Procedimiento
 Paso 1: Preparación del entorno y volumen
